@@ -1,3 +1,3 @@
-module github.com/paulmach/go.geojson
+module github.com/QQbits/go.geojson
 
 go 1.18

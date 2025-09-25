@@ -3,7 +3,7 @@ package geojson_test
 import (
 	"fmt"
 
-	geojson "github.com/paulmach/go.geojson"
+	geojson "github.com/QQbits/go.geojson"
 )
 
 func ExampleUnmarshalFeatureCollection() {
